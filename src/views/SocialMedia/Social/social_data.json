@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "social_id": 1,
+    "social": {
+      "name": "Facebook",
+      "icon": "mdi-facebook"
+    },
+    "name": "Profiles",
+    "detail": {
+      "name": "Demo Accaunt",
+      "picture": "/static/ali.jpg",
+      "title": "Lorem Ipsum",
+      "time": 1528104070
+    }
+  },
+  {
+    "id": 2,
+    "social_id": 1,
+    "social": {
+      "name": "Facebook",
+      "icon": "mdi-facebook"
+    },
+    "name": "Pages",
+    "detail": {
+      "name": "Demo Accaunt",
+      "picture": "/static/ali.jpg",
+      "title": "Lorem Ipsum",
+      "time": 1528104070
+    }
+  },
+  {
+    "id": 3,
+    "social_id": 1,
+    "social": {
+      "name": "Facebook",
+      "icon": "mdi-facebook"
+    },
+    "name": "Groups",
+    "detail": {
+      "name": "Demo Accaunt",
+      "picture": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
+      "title": "Lorem Ipsum",
+      "time": 1528104070
+    }
+  },
+  {
+    "id": 4,
+    "social_id": 12,
+    "social": {
+      "name": "Telegram",
+      "icon": "mdi-telegram"
+    },
+    "name": "Channels",
+    "detail": {
+      "name": "Demo Accaunt",
+      "picture": "/static/ali.jpg",
+      "title": "Lorem Ipsum",
+      "time": 1528104070
+    }
+  },
+  {
+    "id": 5,
+    "social_id": 1,
+    "social": {
+      "name": "Facebook",
+      "icon": "mdi-facebook"
+    },
+    "name": "Profiles",
+    "detail": {
+      "name": "Demo Accaunt 2",
+      "picture": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
+      "title": "Lorem Ipsum 2",
+      "time": 1528104070
+    }
+  },
+  {
+    "id": 6,
+    "social_id": 4,
+    "social": {
+      "name": "Linkedin",
+      "icon": "mdi-linkedin"
+    },
+    "name": "Boards",
+    "detail": {
+      "name": "Demo Accaunt 2",
+      "picture": "/static/ali.jpg",
+      "title": "Lorem Ipsum 2",
+      "time": 1528104070
+    }
+  }
+]

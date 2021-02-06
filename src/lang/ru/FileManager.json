@@ -1,0 +1,23 @@
+{
+  "title": "Файловый менеджер",
+  "limit": "Статус хранения",
+  "upload": "нагрузка",
+  "search": "Поиск",
+  "filter": "Фильтр",
+  "image": "Образ",
+  "video": "видео",
+  "noMoreToAdd": "Нет файлов для выбора",
+  "empty": "Файл еще не загружен",
+  "dragAndDrop": "Перетащите, чтобы загрузить контент!",
+  "orClickToSelect": "Или нажмите, чтобы выбрать файл на вашем компьютере",
+  "acceptedFiles": "Допустимые типы файлов: {type}",
+  "invalidFileType": "Неверный тип файла",
+  "fileTooBig": "Файл слишком большой",
+  "fileUploadError": "Ошибка загрузки файла",
+  "fileNameChangeHeader": "Хотите удалить файл?",
+  "fileNameChangeAgree": "Удалить",
+  "fileNameChangeDisagree": "Отмена",
+  "fileName": "Имя файла",
+  "fileSettings": "настройки"
+}
+

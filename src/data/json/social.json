@@ -1,0 +1,80 @@
+[
+  {
+    "id": 0,
+    "name": "All",
+    "icon": "group_work",
+    "status": "1"
+  },
+  {
+    "id": 1,
+    "name": "Facebook",
+    "icon": "mdi-facebook",
+    "status": "1"
+  },
+  {
+    "id": 2,
+    "name": "Instagaram",
+    "icon": "mdi-instagram",
+    "status": "1"
+  },
+  {
+    "id": 3,
+    "name": "Twitter",
+    "icon": "mdi-twitter",
+    "status": "1"
+  },
+  {
+    "id": 4,
+    "name": "Linkedin",
+    "icon": "mdi-linkedin",
+    "status": "1"
+  },
+  {
+    "id": 5,
+    "name": "Pinterest",
+    "icon": "mdi-pinterest",
+    "status": "1"
+  },
+  {
+    "id": 6,
+    "name": "Youtube",
+    "icon": "mdi-youtube",
+    "status": "1"
+  },
+  {
+    "id": 7,
+    "name": "Google Business",
+    "icon": "mdi-google",
+    "status": "1"
+  },
+  {
+    "id": 8,
+    "name": "Reddit",
+    "icon": "mdi-reddit",
+    "status": "1"
+  },
+  {
+    "id": 9,
+    "name": "Tumblr",
+    "icon": "mdi-alpha-t",
+    "status": "1"
+  },
+  {
+    "id": 10,
+    "name": "OK",
+    "icon": "mdi-odnoklassniki",
+    "status": "1"
+  },
+  {
+    "id": 11,
+    "name": "VK",
+    "icon": "mdi-vk",
+    "status": "1"
+  },
+  {
+    "id": 12,
+    "name": "Telegram",
+    "icon": "mdi-telegram",
+    "status": "1"
+  }
+]

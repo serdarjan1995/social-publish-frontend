@@ -1,0 +1,10 @@
+{
+  "Welcome": "привет, добро пожаловать обратно!",
+  "Email": "Почта",
+  "Password": "пароль",
+  "RememberMe": "Запомни меня",
+  "ForgotPassword": "забыл пароль",
+  "SignIn": "Войти",
+  "DontHaveAccount": "у вас нет аккаунта?",
+  "CreateAccount": "Create Account"
+}

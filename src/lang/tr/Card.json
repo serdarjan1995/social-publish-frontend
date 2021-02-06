@@ -1,0 +1,16 @@
+{
+  "cardHolder": "Kart No",
+  "fullName": "Ad Soyad",
+  "expires": "Geçerlilik",
+  "MM": "AA",
+  "YY": "YY",
+  "cardNumber": "Kart No",
+  "cardName": "Ad Soyad",
+  "expirationDate": "Geçerlilik Tarihi",
+  "month": "Ay",
+  "year": "Yıl",
+  "CVV": "CVV",
+  "submit": "Gönder",
+  "invalidCardNumber": "Geçersiz Kart Numarası"
+}
+

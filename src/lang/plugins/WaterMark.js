@@ -1,0 +1,43 @@
+export const enlang = {
+    "Load": "Load",
+    "Download": "Download",
+    "Apply": "Apply",
+    "Arrow": "Arrow",
+    "Save": "Save",
+    "Delete": "Delete",
+    "Delete All": "Delete All",
+    "Undo": "Undo",
+    "Redo": "Redo",
+    "Crop": "Crop",
+    "Flip": "Flip",
+    "Rotate": "Rotate",
+    "Draw": "Draw",
+    "Shape": "Shape",
+    "Icon": "Icon",
+    "Text": "Text",
+    "Mask": "Mask",
+    "Filter": "Filter",
+    "Reset": "Reset"
+};
+export const trlang = {
+    "Load": "Yükle",
+    "Download": "İndşr",
+    "Apply": "Uygula",
+    "Arrow": "Ok",
+    "Save": "Kaydet",
+    "Delete": "Sil",
+    "Delete All": "Hepsini Sil",
+    "Undo": "Geri",
+    "Redo": "İleri",
+    "Crop": "Kırp",
+    "Flip": "Döndür",
+    "Rotate": "Çevir",
+    "Draw": "Çiz",
+    "Shape": "Şekil",
+    "Icon": "İcon",
+    "Text": "Yazı",
+    "Mask": "Maske",
+    "Filter": "Filtre",
+    "Reset": "Reset"
+};
+

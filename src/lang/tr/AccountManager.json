@@ -1,0 +1,14 @@
+{
+  "Add": "Ekle",
+  "Edit": "Güncelle",
+  "Delete": "Sil",
+  "add_account": "Hesap Ekle",
+  "add_instagram_account": "Instagram hesabı ekle",
+  "add_instagram_username_placeholder": "Telefon numarası, kullanıcı adı veya e-posta",
+  "add_instagram_password_placeholder": "Şifre",
+  "add_instagram_verify_code_placeholder": "Verify Code",
+  "add_instagram_confirm_code": "Submit",
+  "add_fb_groups_and_pages": "Facebook Grup ve Sayfalarınızı ekleyin",
+  "add_profile_account_first": "Lütfen önce {name} profil hesabı ekleyınız"
+}
+

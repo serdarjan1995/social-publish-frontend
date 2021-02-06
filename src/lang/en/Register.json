@@ -1,0 +1,17 @@
+{
+  "CreateAccount": "Create Account",
+  "Name": "Name",
+  "Email": "Email",
+  "Password": "Password",
+  "ConfirmPassword": "Confirm Password",
+  "AgreeTo": "Agree to",
+  "TermsAndPolicy": "terms & privacy policy",
+  "SignUp": "SIGN UP",
+  "AlreadyHaveAccount": "Already have an account?",
+  "Login": "Login",
+
+  "VerificationLinkSent": "Verification Link Sent",
+  "ThankYouMessage": "Thank You for Signing up! a verification email has been sent to You, please check your email to verify your account",
+  "Resend": "Resend"
+}
+

@@ -1,0 +1,65 @@
+export const fileManagerData = [
+    {
+        "id" : 1,
+        "name" : "First",
+        "type" : "image",
+        "url" : "https://picsum.photos/500/300?image=1",
+        "lazyUrl" : "https://picsum.photos/50/30?image=1",
+    },
+    {
+        "id" : 2,
+        "name" : "Second",
+        "type" : "image",
+        "url" : "https://picsum.photos/500/300?image=2",
+        "lazyUrl" : "https://picsum.photos/50/30?image=2",
+    },
+    {
+        "id" : 3,
+        "name" : "Third",
+        "type" : "image",
+        "url" : "https://picsum.photos/500/300?image=3",
+        "lazyUrl" : "https://picsum.photos/50/30?image=3",
+    },
+    {
+        "id" : 4,
+        "name" : "Fourth",
+        "type" : "image",
+        "url" : "https://picsum.photos/500/300?image=4",
+        "lazyUrl" : "https://picsum.photos/50/30?image=4",
+    },
+    {
+        "id" : 5,
+        "name" : "Fifth",
+        "type" : "image",
+        "url" : "https://picsum.photos/500/300?image=5",
+        "lazyUrl" : "https://picsum.photos/50/30?image=5",
+    },
+    {
+        "id" : 6,
+        "name" : "Sixth",
+        "type" : "image",
+        "url" : "https://picsum.photos/500/300?image=6",
+        "lazyUrl" : "https://picsum.photos/50/30?image=6",
+    },
+    {
+        "id" : 7,
+        "name" : "Seventh",
+        "type" : "image",
+        "url" : "https://picsum.photos/500/300?image=7",
+        "lazyUrl" : "https://picsum.photos/50/30?image=7",
+    },
+    {
+        "id" : 8,
+        "name" : "Eights",
+        "type" : "video",
+        "url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+        "lazyUrl" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+    },
+    {
+        "id" : 9,
+        "name" : "Ninth Ninth Ninth Ninth Ninth",
+        "type" : "video",
+        "url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+        "lazyUrl" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+    }
+];

@@ -1,0 +1,18 @@
+{
+  "roles": "Roles",
+  "name": "Name",
+  "close": "Close",
+  "actions": "Actions",
+  "permissions": "Permissions",
+  "addPermission" : "Add Permission",
+  "editPermission" : "Edit Permission",
+  "editRole" : "Edit Role",
+  "deleteAsk" : "Are you sure to delete",
+  "deleteRole": "Delete Role",
+  "deletePermission": "Delete Permission",
+  "update" : "Update",
+  "cancel": "Cancel",
+  "add": "Add",
+  "edit": "Edit",
+  "delete": "Delete"
+}

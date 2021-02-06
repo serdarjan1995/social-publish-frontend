@@ -1,0 +1,23 @@
+{
+  "title": "Dosya Yöneticisi",
+  "limit": "Saklama alanı durumu",
+  "upload": "Yükle",
+  "search": "Ara",
+  "filter": "Filtre",
+  "image": "Resim",
+  "video": "Video",
+  "noMoreToAdd": "Seçilecek dosya kalmadı",
+  "empty": "Henüz dosya yüklenmedi",
+  "dragAndDrop": "Dosya yüklemek için sürükleyip bırakın!",
+  "orClickToSelect": "Veya bir dosya seçmek için tıklayın",
+  "acceptedFiles": "Geçerli dosya tipleri: {type}",
+  "invalidFileType": "Geçersiz dosya tipi",
+  "fileTooBig": "Dosya boyutu çok yüksektir",
+  "fileUploadError": "Dosya yüklenemedi",
+  "fileNameChangeHeader": "Dosyayı silmek istediğinize emin misiniz?",
+  "fileNameChangeAgree": "Silinsin",
+  "fileNameChangeDisagree": "İptal Et",
+  "fileName": "Dosya adı",
+  "fileSettings": "Ayarlar"
+}
+

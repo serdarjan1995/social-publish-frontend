@@ -1,0 +1,2 @@
+export const VERIFY_SUCCESS = 'VERIFY_SUCCESS'
+export const VERIFY_ERROR = 'VERIFY_ERROR'

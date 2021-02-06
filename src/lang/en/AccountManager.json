@@ -1,0 +1,14 @@
+{
+  "Add": "Add",
+  "Edit": "Edit",
+  "Delete": "Delete",
+  "add_account": "Add account",
+  "add_instagram_account": "Add Instagram account",
+  "add_instagram_username_placeholder": "Phone number, username, or email",
+  "add_instagram_password_placeholder": "Password",
+  "add_instagram_verify_code_placeholder": "Verify Code",
+  "add_instagram_confirm_code": "Submit",
+  "add_fb_groups_and_pages": "Add your Facebook Groups and Pages",
+  "add_profile_account_first": "Please add {name} profile account first"
+}
+

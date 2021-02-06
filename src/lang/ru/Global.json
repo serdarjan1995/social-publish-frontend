@@ -1,0 +1,16 @@
+{
+  "rightsReserved": "Tüm Haklar Saklıdır",
+  "logoutAreYouSure": "Are you sure you want to logout now?",
+  "loggingOut": "Logging out.",
+  "cancel": "Cancel",
+  "yes": "Yes",
+  "update" : "Update",
+  "delete" : "Delete",
+  "sUpdated" : "Successfully Updated!",
+  "fUpdated" : "Updating Failed!",
+  "sDeleted" : "Successfully Deleted!",
+  "fDeleted" : "Deleting Failed!",
+  "Add" : "Add",
+  "login" : "Войти",
+  "required": "Required"
+}

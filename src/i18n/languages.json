@@ -1,0 +1,19 @@
+[
+  {
+    "name": "English",
+    "locale": "en",
+    "country": "us"
+  },
+  {
+    "name": "Turkish",
+    "locale": "tr",
+    "country": "tr",
+    "fallback": true
+  },
+  {
+    "name": "Русский",
+    "locale": "ru",
+    "alternate": "ru",
+    "country": "ru"
+  }
+]

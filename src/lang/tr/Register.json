@@ -1,0 +1,17 @@
+{
+  "CreateAccount": "Hesap Oluştur",
+  "Name": "İsim",
+  "Email": "E-Posta",
+  "Password": "Şifre",
+  "ConfirmPassword": "Şifreyi Tekrarlayin",
+  "AgreeTo": "Kabul et",
+  "TermsAndPolicy": "şartlar & gizlilik politikası",
+  "SignUp": "Kaydol",
+  "AlreadyHaveAccount": "Hesabınız var mı?",
+  "Login": "Oturum Aç",
+
+  "VerificationLinkSent": "Doğrulama Bağlantısı",
+  "ThankYouMessage": "Kayıt olduğunuz için teşekkürler! size bir doğrulama e-postası gönderildi. hesabınızı doğrulamak için lütfen e-postanızı kontrol edin",
+  "Resend": "Yeniden gönder"
+}
+

@@ -1,0 +1,92 @@
+
+// Charts : Apex Chart
+.apexcharts-canvas {
+  .apexcharts-tooltip {
+    &.light {
+      background: var(--v-primaryBgText-base);
+      border-color: var(--v-primaryBgText-base);
+
+      .apexcharts-tooltip-title {
+        background: var(--v-success-lighten1);
+      }
+    }
+  }
+
+  .apexcharts-xaxistooltip {
+    background: var(--v-background-base);
+    border-color: var(--v-success-lighten1);
+    color: var(--v-anchor-base);
+
+    &:before,
+    &:after {
+      border-bottom-color: var(--v-success-lighten1);
+    }
+  }
+
+  .apexcharts-yaxistooltip {
+    background: var(--v-background-base);
+    border-color: var(--v-success-lighten1);
+    color: var(--v-anchor-base);
+
+    &:before,
+    &:after {
+      border-left-color: var(--v-background-base);
+    }
+  }
+
+  text {
+    fill: var(--v-anchor-base) !important;
+  }
+
+  .apexcharts-pie-series {
+    path {
+      stroke: var(--v-background-base);
+    }
+  }
+
+  .apexcharts-legend {
+    .apexcharts-legend-series {
+      .apexcharts-legend-text {
+        color: var(--v-anchor-base) !important;
+      }
+    }
+  }
+
+  .apexcharts-toolbar {
+    .apexcharts-menu {
+      background: var(--v-background-base);
+      border-color: var(--v-background-base);
+
+      .apexcharts-menu-item {
+        background: var(--v-background-base);
+      }
+    }
+  }
+
+  .apexcharts-radar-series {
+    polygon {
+      fill: var(--v-background-base);
+      stroke: var(--v-background-base);
+    }
+  }
+
+  .apexcharts-track {
+    path {
+      stroke: var(--v-background-base);
+    }
+  }
+
+  .apexcharts-selection-icon:not(.selected):hover svg,
+  .apexcharts-zoom-icon:not(.selected):hover svg,
+  .apexcharts-zoom-in-icon:hover svg,
+  .apexcharts-zoom-out-icon:hover svg,
+  .apexcharts-reset-zoom-icon:hover svg,
+  .apexcharts-menu-icon:hover svg {
+    fill: var(--v-background-base);
+  }
+
+  // grid color
+  .apexcharts-gridline {
+    stroke: var(--v-background-base);
+  }
+}

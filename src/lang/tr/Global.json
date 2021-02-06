@@ -1,0 +1,16 @@
+{
+  "rightsReserved": "Tüm haklar saklıdır",
+  "logoutAreYouSure": "Şimdi çıkış yapmak istediğine emin misiniz?",
+  "loggingOut": "Çıkış yapılacaktır",
+  "cancel": "İptal",
+  "yes": "Evet",
+  "update" : "Update",
+  "delete" : "Delete",
+  "sUpdated" : "Başarıyla Güncellendi!",
+  "fUpdated" : "Güncelleme Başarısız!",
+  "sDeleted" : "Başarıyla Silindi!",
+  "fDeleted" : "Silme Başarısız!",
+  "Add" : "Ekle",
+  "login" : "Giriş Yap",
+  "required": "Required"
+}

@@ -1,0 +1,18 @@
+{
+  "roles": "Roller",
+  "name": "Ad",
+  "close": "Kapat",
+  "actions": "İşlemler",
+  "permissions": "İzinler",
+  "addPermission" : "İzin Ekle",
+  "editPermission" : "İzinleri Düzenle",
+  "editRole" : "Rol Düzenle",
+  "deleteAsk" : "Silmek istediğinize emin misiniz",
+  "deleteRole": "Rol Sil",
+  "deletePermission": "İzin Sil",
+  "update" : "Güncelle",
+  "cancel": "Vazgeç",
+  "add": "Ekle",
+  "edit": "Düzenle",
+  "delete": "Sil"
+}

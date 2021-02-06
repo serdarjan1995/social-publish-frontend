@@ -1,0 +1,14 @@
+{
+  "Add": "Добавить",
+  "Edit": "редактировать",
+  "Delete": "Удалить",
+  "add_account": "Add account",
+  "add_instagram_account": "Add Instagram account",
+  "add_instagram_username_placeholder": "Номер телефона, имя пользователя или эл. адрес",
+  "add_instagram_password_placeholder": "Пароль",
+  "add_instagram_verify_code_placeholder": "Verify Code",
+  "add_instagram_confirm_code": "Submit",
+  "add_fb_groups_and_pages": "Add your Facebook Groups and Pages",
+  "add_profile_account_first": "Please add {name} profile account first"
+}
+

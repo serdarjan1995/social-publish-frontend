@@ -1,0 +1,2 @@
+export const MEDIAS_ERROR = 'MEDIAS_ERROR'
+export const MEDIAS_SUCCESS = 'MEDIAS_SUCCESS'

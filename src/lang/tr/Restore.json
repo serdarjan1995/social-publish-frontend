@@ -1,0 +1,8 @@
+{
+  "RecoverAccount": "Hesabını kurtar",
+  "ProvideEmailMessage": "Şifrenizi değiştirmek için e-posta adresinizi girin",
+  "Email": "E-Posta",
+  "SendRecoveryEmail": "Kurtarma E-postası Gönder",
+  "RecoveryLinkSent": "kurtarma bağlantısı gönderildi",
+  "RecoveryLinkMessage": "Sağlanan e-postaya bir kurtarma bağlantısı gönderildi. Lütfen şifrenizi sıfırlamak için e-postanızı kontrol edin."
+}

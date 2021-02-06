@@ -1,0 +1,23 @@
+{
+  "title": "File Manager",
+  "limit": "Storage Limit",
+  "upload": "Upload",
+  "search": "Search",
+  "filter": "Filter",
+  "image": "Image",
+  "video": "Video",
+  "noMoreToAdd": "No more files left for selection",
+  "empty": "You did not uploaded files yet",
+  "dragAndDrop": "Drag and drop to upload content!",
+  "orClickToSelect": "Or click to select a file from your device",
+  "acceptedFiles": "Accepted file types: {type}",
+  "invalidFileType": "Invalid filetype",
+  "fileTooBig": "File is too big",
+  "fileUploadError": "File Upload Error",
+  "fileNameChangeHeader": "Would you like to delete the file?",
+  "fileNameChangeAgree": "Delete",
+  "fileNameChangeDisagree": "Cancel",
+  "fileName": "File Name",
+  "fileSettings": "Settings"
+}
+

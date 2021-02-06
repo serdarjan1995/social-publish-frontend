@@ -1,0 +1,8 @@
+{
+  "RecoverAccount": "Recover Your Account",
+  "ProvideEmailMessage": "Provide your e-mail address to reset your password",
+  "Email": "Email",
+  "SendRecoveryEmail": "Send Recovery Email",
+  "RecoveryLinkSent": "Recovery Link Sent",
+  "RecoveryLinkMessage": "A recovery link has been sent to the provided e-mail. Please, check your e-mail to reset your password."
+}

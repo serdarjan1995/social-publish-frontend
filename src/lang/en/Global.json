@@ -1,0 +1,16 @@
+{
+  "rightsReserved": "All rights reserved",
+  "logoutAreYouSure": "Are you sure you want to logout now?",
+  "loggingOut": "Logging out.",
+  "cancel": "Cancel",
+  "update" : "Update",
+  "delete" : "Delete",
+  "yes": "Yes",
+  "sUpdated" : "Successfully Updated!",
+  "fUpdated" : "Updating Failed!",
+  "sDeleted" : "Successfully Deleted!",
+  "fDeleted" : "Deleting Failed!",
+  "Add" : "Add",
+  "login" : "Login",
+  "required": "Required"
+}
