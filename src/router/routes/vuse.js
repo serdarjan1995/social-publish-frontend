@@ -20,13 +20,13 @@ export default [
         },
         defaultComponentPath: "SocialMedia/Auth/Components/ResetPassword",
     },
-    /*{
+    {
         params: {
             path: "/auth/signup",
             name: "auth/SignupPage"
         },
         defaultComponentPath: "SocialMedia/Auth/Register",
-    },*/
+    },
     {
         params: {
             path: "/auth/verify/:uuID",

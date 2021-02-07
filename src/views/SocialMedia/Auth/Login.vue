@@ -131,7 +131,7 @@
                 form: Object.assign({}, defaultForm),
                 showPwd: false,
                 sitename:process.env.VUE_APP_NAME,
-                isRegisterActive: false,
+                isRegisterActive: true,
                 style_arr: [
                     'brightness',
                     'contrast',
